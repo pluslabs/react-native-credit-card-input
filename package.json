@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ext .js ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sbycrosz/react-native-credit-card-input.git"
-  },
   "keywords": [
     "react-native",
     "ios",
@@ -26,12 +22,7 @@
     "react-component",
     "react-native-component"
   ],
-  "author": "sbycrosz",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sbycrosz/react-native-credit-card-input/issues"
-  },
-  "homepage": "https://github.com/sbycrosz/react-native-credit-card-input#readme",
   "dependencies": {
     "card-validator": "^3.0.0",
     "prop-types": "^15.6.0",
